@@ -5,4 +5,4 @@ La segunda, accediendo al CAN OBD del vehiculo. (USB_Canhcker_V2/USB_Canhacker_v
 Para las dos versiones es necesario el circuito simulador de batería, o bien dejar instalada la batería original.
 Otra cosa que he tenido que sustituir, son los relés de corte de la batería EV, las batería de litio, son capaces de suministrar más intensidad de la esperada y se quedan pegados. He puesto estós (TE Tyco HVDC EV200AAANA).
 A medida que vaya avanzando en es proyecto, iré añadiendo información.
-Todo el proceso lo estoy realizando, sin tener que quedarme ni un solo día, sin poder utilizar el vehiculo.
+
